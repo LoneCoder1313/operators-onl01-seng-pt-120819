@@ -1,4 +1,4 @@
-def unsafe?(55)
+def unsafe?(75)
   if unsafe? < 60 
 
 end
